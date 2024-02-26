@@ -1,0 +1,25 @@
+header a img:hover{
+    width: 55px;
+}
+
+header a:visited{
+    color: black;
+}
+header{
+    background-color:lightblue;
+}
+table th {
+    background-color: rgb(241, 235, 228);
+    color: #000;
+}
+
+table tr {
+    background-color: lightblue;
+}
+section{
+    background-color: rgb(241, 235, 228);
+}
+
+body{
+    background-color: lightblue;
+}

@@ -1,0 +1,25 @@
+.bg_section{
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+
+main img{
+    width:500px
+}
+
+div{   
+    width:50%;
+    float: left;
+    height: 500px;
+}
+
+table{
+    width: 50%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+table th, table td {
+    padding: 30px 15px;
+    border: 1px solid #ddd;
+}
